@@ -18,8 +18,12 @@
 }
 
 .form-control.invalid input {
-  background-color: gainsboro;
+  background-color: #ffd7d7;
   border: 1px solid red;
+}
+
+.form-control.invalid label {
+  color: red;
 }
 
 .form-control input:focus {
