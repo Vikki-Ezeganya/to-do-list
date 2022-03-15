@@ -1,0 +1,11 @@
+# Ignore node_modules folder and other json files
+node_modules/
+package.json
+package-lock.json
+.eslintcache
+
+# Ignore all text files
+.text
+
+# Ignore Mac system files
+.DS_store
